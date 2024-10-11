@@ -40,10 +40,18 @@ public abstract class MovingObject extends GameObject {
             if(m.equals(this))
                 continue;
 
-            double distance = m.getCenter().subtract(getCenter()).getMagnitude();
+            if(m instanceof Player){
+                double distance = m.getCenter().subtract(getCenter()).getMagnitude();
 
-            if(distance < m.width/2 + width/2 && movingObjects.contains(this)){
-                objectCollision(m, this);
+                if(distance < m.width/4 + width/4 && movingObjects.contains(this)){
+                    objectCollision(m, this);
+                }
+            } else {
+                double distance = m.getCenter().subtract(getCenter()).getMagnitude();
+
+                if(distance < m.width/2 + width/2 && movingObjects.contains(this)){
+                    objectCollision(m, this);
+                }
             }
         }
     }
@@ -54,6 +62,10 @@ public abstract class MovingObject extends GameObject {
             return;
         }
         if(b instanceof Player && ((Player)b).isSpawning()) {
+            return;
+        }
+
+        if(a instanceof Meteor && b instanceof Ufo) {
             return;
         }
 

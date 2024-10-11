@@ -23,7 +23,7 @@ public class GameState {
     private int score = 0;
     private int lives = 3;
     private int meteors;
-    private int waves = 1;
+    private int waves = 0;
 
     public GameState() {
         player = new Player(new Vector2D(Constants.WIDTH / 2 - Assets.player.getWidth() / 2,
@@ -78,7 +78,7 @@ public class GameState {
 
     private void startWave(){
         messages.add(new Message(new Vector2D(Constants.WIDTH/2, Constants.HEIGHT/2), false,
-                "WAVE "+waves, Color.WHITE, true, Assets.fontBig, this));
+                "WAVE " + (++waves), Color.WHITE, true, Assets.fontBig, this));
 
         double x, y;
 

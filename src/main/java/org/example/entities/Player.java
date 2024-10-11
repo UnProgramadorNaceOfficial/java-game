@@ -19,6 +19,7 @@ public class Player extends MovingObject {
     private boolean acelerating = false;
     private Chronometer chronometer;
 
+    private int counter = 0;
     private boolean spawning;
     private boolean visible;
     private Chronometer spawnTime;
@@ -136,6 +137,12 @@ public class Player extends MovingObject {
 
     @Override
     public void draw(Graphics g) {
+
+        if(isSpawning() == false && counter == 0){
+            spawning = true;
+            spawnTime.run(Constants.SPAWNING_TIME);
+            counter++;
+        }
 
         if(!visible)
             return;
