@@ -1,0 +1,28 @@
+
+W
+java:S2184"BCast one of the operands of this division operation to a "double".(éì¨V
+`	java:S112}"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112†"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+h	java:S116"NRename this field "FPS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š±ŸÑúÿÿÿÿ
+i	java:S116"URename this field "TARGETTIME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éì¨V
+<
+java:S1170"!Make this final field static too.(š±ŸÑúÿÿÿÿ
+t
+java:S1450"YRemove the "averageFPS" field and declare it as a local variable in the relevant methods.(Ë·È¥ýÿÿÿÿ
+l
+java:S1450"QRemove the "bs" field and declare it as a local variable in the relevant methods.(Õ½Ûšÿÿÿÿÿ
+k
+java:S1450"PRemove the "g" field and declare it as a local variable in the relevant methods.(åè‹îüÿÿÿÿ
+?
+java:S1948"$Make "bs" transient or serializable.(Õ½Ûšÿÿÿÿÿ
+>
+java:S1948"#Make "g" transient or serializable.(åè‹îüÿÿÿÿ
+=
+java:S1948"(Make "thread" transient or serializable.(â£Ÿ4
+d
+java:S3252 "IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öþÿÿÿÿ
+Q	java:S125d"<This block of commented-out lines of code should be removed.(ÍÀÐâ
+t
+java:S2142|"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+I
+java:S1068".Remove this unused "averageFPS" private field.(Ë·È¥ýÿÿÿÿ

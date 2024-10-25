@@ -1,0 +1,45 @@
+
+`
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(üÑ—Íúÿÿÿÿ
+[
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(½Á®¿
+]
+java:S2184P"BCast one of the operands of this division operation to a "double".(•éª„úÿÿÿÿ
+]
+java:S2184P"BCast one of the operands of this division operation to a "double".(•éª„úÿÿÿÿ
+]
+java:S2184n"BCast one of the operands of this division operation to a "double".(ö©ËËøÿÿÿÿ
+]
+java:S2184n"BCast one of the operands of this division operation to a "double".(ö©ËËøÿÿÿÿ
+\
+java:S2184"@Cast one of the operands of this integer division to a "double".(ÅÑ¤øûÿÿÿÿ
+\
+java:S2184"@Cast one of the operands of this integer division to a "double".(ÅÑ¤øûÿÿÿÿ
+W
+java:S2184†"@Cast one of the operands of this integer division to a "double".(Í”±À
+W
+java:S2184†"@Cast one of the operands of this integer division to a "double".(Í”±À
+\
+java:S2184‰"@Cast one of the operands of this integer division to a "double".(ÅÑ¤øûÿÿÿÿ
+\
+java:S2184‰"@Cast one of the operands of this integer division to a "double".(ÅÑ¤øûÿÿÿÿ
+W
+java:S2184Š"@Cast one of the operands of this integer division to a "double".(Í”±À
+W
+java:S2184Š"@Cast one of the operands of this integer division to a "double".(Í”±À
+‡
+java:S1319ï"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(„İ¯û
+‡
+java:S1319÷"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ˆÈä»
+t
+java:S2293y"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒÊÊÿÿÿÿÿ
+?
+java:S2140G")Use "java.util.Random.nextInt()" instead.(Šû‘
+5
+java:S1659S"Declare "y" on a separate line.(ùç—©
+D
+java:S2140Z")Use "java.util.Random.nextInt()" instead.(áõÎÿúÿÿÿÿ
+8
+java:S1659{""Declare "posY" on a separate line.(Ã€Ü‡
+D
+java:S2140t")Use "java.util.Random.nextInt()" instead.(Î½ùôûÿÿÿÿ

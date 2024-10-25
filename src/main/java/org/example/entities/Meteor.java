@@ -24,15 +24,15 @@ public class Meteor extends MovingObject{
     public void update() {
         position = position.add(velocity);
 
-        if(position.getX() > Constants.WIDTH)
+        if(position.getX() > Constants.WIDTH - 100)
             position.setX(-width);
-        if(position.getY() > Constants.HEIGHT)
+        if(position.getY() > Constants.HEIGHT - 100)
             position.setY(-height);
 
         if(position.getX() < -width)
-            position.setX(Constants.WIDTH);
+            position.setX(Constants.WIDTH - 100);
         if(position.getY() < -height)
-            position.setY(Constants.HEIGHT);
+            position.setY(Constants.HEIGHT - 100);
 
         angle += Constants.DELTAANGLE/2;
 

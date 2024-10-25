@@ -1,0 +1,33 @@
+
+
+java:S2184."ECast one of the operands of this subtraction operation to a "double".(¯é÷ÍJ$b39b35fa-f95f-4069-94a8-db998316f368
+†
+java:S2184/"ECast one of the operands of this subtraction operation to a "double".(ìñÓÀüÿÿÿÿJ$5911a974-c2cb-4ded-91a4-fec0e732c7cd
+‚
+java:S2184˜"@Cast one of the operands of this integer division to a "double".(Üœ¯ƒüÿÿÿÿJ$02887bfc-88e8-4a3f-bbb4-b09682e8a40b
+‚
+java:S2184˜"@Cast one of the operands of this integer division to a "double".(Üœ¯ƒüÿÿÿÿJ$f1c8abe3-0868-4cd9-8226-0a3d5db7f441
+
+java:S2184œ"BCast one of the operands of this division operation to a "double".(”Œê±J$11484239-a2fb-4e14-8084-91bb9ae97d3f
+
+java:S2184œ"BCast one of the operands of this division operation to a "double".(”Œê±J$3ec9e7f9-3cf2-4b9b-94cd-3b6f5fb26543
+‚
+java:S2184¦"@Cast one of the operands of this integer division to a "double".(°˜ïÃüÿÿÿÿJ$99aa88e3-8fbd-4909-898f-76c44a37a26a
+‚
+java:S2184¦"@Cast one of the operands of this integer division to a "double".(°˜ïÃüÿÿÿÿJ$93a35183-5cbe-4ab2-adce-ce330e3c996e
+p
+java:S1066F"/Merge this if statement with the enclosing one.(ÔÆöÑùÿÿÿÿJ$20f6ef10-0e42-48d2-b7e6-1088c1ac9f44
+b
+java:S1170"!Make this final field static too.(€¶ç¦ûÿÿÿÿJ$2d91db6e-b646-4b5e-beee-a7e27d86a93c
+b
+java:S1170"!Make this final field static too.(ïì‡úÿÿÿÿJ$d41b08ed-53eb-4884-9c9f-84007abc9705
+
+java:S3776<"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(›Ú J$1b2cda36-ab5d-4fae-9cdd-3b2a08e882ba
+i
+java:S1125"'Remove the unnecessary boolean literal.(—î„¶øÿÿÿÿJ$8adf8f9f-525a-4889-9a1c-387e69757e60
+w
+java:S1161¥":Add the "@Override" annotation above this method signature(ı×à©J$12cb4272-bda5-4f30-825a-aec02819f468
+u
+java:S1068"4Remove this unused "acelerationValue" private field.(€¶ç¦ûÿÿÿÿJ$8188da69-d06d-4c5f-a54d-4cd174cc0c3b
+o
+java:S1068".Remove this unused "deltaAngle" private field.(ïì‡úÿÿÿÿJ$130715af-1557-4d31-9f9d-5348b1eb5c41
